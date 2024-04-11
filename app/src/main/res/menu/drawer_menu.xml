@@ -1,0 +1,14 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_main"
+        android:title="Main" />
+    <item
+        android:id="@+id/nav_saved_images"
+        android:title="Saved Images" />
+    <item
+        android:id="@+id/nav_about"
+        android:title="About" />
+    <item
+        android:id="@+id/nav_settings"
+        android:title="Settings" />
+</menu>

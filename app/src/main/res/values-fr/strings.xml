@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="open">Entrez</string>
+    <string name="close">Fermer</string>
+    <string name="action_settings">Paramètres</string>
+    <string name="help">Aide</string>
+    <string name="help_text">Voici comment utiliser</string>
+    <string name="fetch_image">Chercher l\'image</string>
+    <string name="save_image">Sauvegarder l\'image</string>
+    <string name="enter_date">Entrez une date (AAAA-MM-JJ)</string>
+</resources>
